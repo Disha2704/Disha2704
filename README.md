@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disha Devani</h1>
 <h3 align="center">An entry level data scientist with newly acquired skills and strong academic records</h3>
-<img alt="coding" align="right" src="https://i.pinimg.com/564x/4b/0d/e1/4b0de158fab97f43b7e55eb0a9fa9328.jpg">
 
 - 🌱 I’m currently learning **data science,machine-learning,deep-learning**
 
