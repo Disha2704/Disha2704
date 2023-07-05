@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data science,machine-learning,deep-learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Disha2704/resume/blob/main/Disha-Resume.pdf](https://github.com/Disha2704/resume/blob/main/Disha-Resume.pdf)
+- 👨‍💻 All of my projects are available at [https://dishaportfolio.pythonanywhere.com/](https://dishaportfolio.pythonanywhere.com/)
 
 - 📫 How to reach me **dishadevani2704@gmail.com**
 
